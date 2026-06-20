@@ -1,0 +1,6 @@
+{
+  "name": "Nexvy",
+  "description": "How to earn money online with Nexvy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
