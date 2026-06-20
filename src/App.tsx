@@ -442,7 +442,7 @@ export default function App() {
           </button>
           
           <motion.a
-            href="https://www.app.nexvy.in"
+            href="https://app.nexvy.in/"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.05 }}
@@ -508,7 +508,7 @@ export default function App() {
 
               <div className="pt-2 border-t border-white/10">
                 <a
-                  href="https://www.app.nexvy.in"
+                  href="https://app.nexvy.in/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full py-3 bg-[#e8ca2c] hover:bg-[#ebd02a] text-[#1e4629] font-sans font-bold text-center text-sm tracking-wide rounded-xl shadow-md transition-all flex items-center justify-center gap-1.5 cursor-pointer uppercase"
@@ -567,7 +567,7 @@ export default function App() {
             {/* EARN MONEY Button */}
             <motion.a
               id="earn-money-btn"
-              href="https://www.app.nexvy.in"
+              href="https://app.nexvy.in/"
               target="_blank"
               rel="noopener noreferrer"
               onClick={handleClick}
@@ -596,7 +596,7 @@ export default function App() {
             <div className="flex flex-col items-center gap-2">
               <motion.a 
                 id="earn-arrow-btn"
-                href="https://www.app.nexvy.in"
+                href="https://app.nexvy.in/"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.1, rotate: 10 }}
@@ -1102,7 +1102,7 @@ export default function App() {
                     </p>
                   </div>
                   <motion.a
-                    href="https://www.app.nexvy.in"
+                    href="https://app.nexvy.in/"
                     target="_blank"
                     rel="noopener noreferrer"
                     whileHover={{ scale: 1.05, shadow: "0px 10px 30px rgba(232, 202, 44, 0.4)" }}
